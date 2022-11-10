@@ -10899,6 +10899,7 @@ textarea.form-control-lg {
 
 .ancho {
   width: 50%;
+  
   background-color: var(--bs-gray-400);
   position: relative;
   left: 25%;
